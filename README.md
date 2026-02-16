@@ -16,12 +16,14 @@
 nombre:  John Ivan Sinchi Nina
 enfoque: Mobile · Web · Backend
 ```
+Desarrollador de software con interés en construir herramientas con propósito real, priorizando soluciones funcionales sobre complejidad innecesaria. Experiencia desarrollando aplicaciones Android nativas con Flutter y Kotlin, aplicaciones web con TypeScript y React, y diseño de sistemas de comunicación a bajo nivel.
 
 - 📱 **TimeLock** — app Android de control de pantalla con bloqueo real, 100% local
 - 🤖 **Yugo** — motor de automatización conductual para Android con macros y consecuencias reales
 - 🏋️ **Routime** — workout timer web con síntesis de voz, video y temporizador de alta precisión
 - 🛰️ **GPS Protocol** — protocolo binario sobre UDP con CRC-16, ARQ y cliente-servidor funcional
 - 🎮 **War of Tanks** — videojuego de tanques con combate en tiempo real
+
 
 ---
 
