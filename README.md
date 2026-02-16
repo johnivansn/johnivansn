@@ -38,12 +38,15 @@ enfoque: Mobile · Web · Backend
 #### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### Backend & Redes
+#### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Herramientas
@@ -65,7 +68,7 @@ enfoque: Mobile · Web · Backend
 | 🏋️ [**Routime**](https://github.com/johnivansn/Routime) | Workout timer web con síntesis de voz, reproducción de video por ejercicio y temporizador de alta precisión. Sin conexión ni cuenta | TypeScript · React · Vite |
 | 🛰️ [**GPS Protocol**](https://github.com/johnivansn/GPS) | Protocolo binario de 30B sobre UDP con CRC-16, ARQ y backoff exponencial — cliente-servidor funcional con UI en PyQt5 | Python · Sockets |
 | 🎮 [**War of Tanks**](https://github.com/johnivansn/War-Of-Tanks) | Videojuego de oleadas 2D con IA enemiga, editor de mapas y power-ups — motor escrito a mano sin frameworks externos | Java · org.json |
-| 🔧 [**Servineo**](https://github.com/johnivansn/servineo-backend) | Plataforma de servicios con arquitectura backend y frontend separados | [Backend](https://github.com/johnivansn/servineo-backend) · [Frontend](https://github.com/johnivansn/servineo-frontend) |
+| 🔧 [**Servineo**](https://github.com/johnivansn/servineo-backend) | Plataforma de servicios con arquitectura backend y frontend separados | Express · Next.js &nbsp; [Backend](https://github.com/johnivansn/servineo-backend) · [Frontend](https://github.com/johnivansn/servineo-frontend) |
 
 </div>
 
